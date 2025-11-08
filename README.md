@@ -7,10 +7,20 @@
 
 ### Ход работы:
 
-#### 1. Настройка Git
+#### 1. Аккаунт
 
-git config --global user.name "PXXXX Ivanov I.I."
-git config --global user.email "your_email@example.com"
-git clone https://github.com/your_username/LR6.git
-git checkout -b new-branch
-git merge new-branch
+![Создан аккаунт](screenshots/Снимок экрана 2025-11-08 120437)
+
+#### 2. Настройки гит
+
+![Клонирование, добавка файла](screenshots/Снимок экрана 2025-11-08 030340)
+
+![Удаление, изменения, откат](screenshots/Снимок экрана 2025-11-08 030550)
+
+![Новая ветка](screenshots/Снимок экрана 2025-11-08 030614)
+
+![Логи](screenshots/Снимок экрана 2025-11-08 030902)
+
+### Вывод
+
+#### Изучила базовые возможности системы управления версиями
