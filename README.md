@@ -7,10 +7,16 @@
 
 ### Ход работы:
 
-#### 1. Настройка Git
+#### 1. Создан аккаунт
 
-git config --global user.name "PXXXX Ivanov I.I."
-git config --global user.email "your_email@example.com"
-git clone https://github.com/your_username/LR6.git
-git checkout -b new-branch
-git merge new-branch
+![Создан аккаунт] (screenshots/Снимок экрана 2025-11-08 114451)
+
+#### 2. Настройка Git
+
+![Настройка гит](screenshots/Снимок экрана 2025-11-08 030340)
+
+![История операций, последние изменения](screenshots/Снимок экрана 2025-11-08 030550)
+
+![Удаление, откат, новая ветка](screenshots/Снимок экрана 2025-11-08 030614)
+
+![Логи](screenshots/Снимок экрана 2025-11-08 030902)
